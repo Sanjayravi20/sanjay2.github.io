@@ -72,3 +72,10 @@ footer {
   padding: 15px 0;
 
 }
+.profile {
+  width: 150px;
+  border-radius: 50%;
+  transform: rotate(180deg);
+}
+
+
